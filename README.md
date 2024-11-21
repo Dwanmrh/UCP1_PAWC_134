@@ -9,3 +9,6 @@ UPDATE
 
 DELETE
 ![Screenshot 2024-11-21 123957](https://github.com/user-attachments/assets/1f84629e-67b5-4450-a701-1ad491e26d2a)
+
+DATABASE
+![image](https://github.com/user-attachments/assets/65a5ebc7-4c18-4e0b-91df-90e9970e31b6)
